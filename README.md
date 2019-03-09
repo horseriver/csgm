@@ -39,7 +39,7 @@ Pip installation can be done by ```$ pip install -r requirements.txt```
     ```shell
     $ git clone https://github.com/AshishBora/csgm.git
     $ cd csgm
-    $ git submodule update --init --recursive
+    $ git submodule update --init --recursive         ###### 用 git submodule update来获取子模块
     ```
 
 
